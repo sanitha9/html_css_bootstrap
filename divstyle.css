@@ -1,0 +1,224 @@
+body{
+    background-color: yellow;
+}
+.first{
+    width:98.9%;
+    height:263px;
+    background-color: red;
+    margin-left:20px;
+    margin-top:-15px;
+    font-size:7px;
+    
+    
+}
+.second{
+    width:36%;
+    height:100px;
+    background-color: rgb(0, 221, 255);
+    margin-left:20px;
+    margin-top:28px;
+    text-align:center; 
+    font-size:7px;
+
+  
+}
+.third{
+    width:55.5%;
+    height:100px;
+    background-color: rgb(255, 0, 166);
+    margin-left:620px;
+    margin-top:-112px;
+    margin-right:20px;
+    font-size:7px;   
+}
+.fourth{
+    width:90%;
+    height:35px;
+    background-color: rgb(223, 213, 219);
+    margin-left:45px;
+    margin-bottom:200px;
+    margin-right:20px;
+    font-size: 7px;   
+}
+.fifth{
+    width:97.5%;
+    height:60px;
+    background-color: rgb(125, 124, 125);
+    margin-left:20px;
+    /* margin-bottom:300px;
+    */
+    margin-top:25px;
+    font-size:7px;   
+}
+.sixth{
+    width:95.8%;
+    height:20px;
+    background-color:white;
+    margin-left:20px;
+    margin-top:-10px;
+    
+    margin-top:-65;
+    font-size:7px;   
+}
+.seventh{
+    width:50%;
+    height:450px;
+    background-color:cyan;
+    margin-left:20px;
+    /* margin-bottom:300px;
+    */
+    margin-top:-65;
+    font-size:7px;   
+}
+.eighth{
+    width:89%;
+    height:130px;
+    background-color:green;
+    margin-left:20px;
+    /* margin-bottom:300px;
+    */
+    margin-top:-65;
+    font-size:7px;   
+}
+.ninth{
+    width:89%;
+    height:130px;
+    background-color:green;
+    margin-left:20px;
+    margin-top:50px;
+    font-size:7px;   
+}
+.tenth{
+    width:89%;
+    height:30px;
+    background-color:white;
+    margin-left:20px;
+    margin-top:10px;
+    font-size:7px;   
+}
+.Eleventh{
+    width:89%;
+    height:30px;
+    background-color:white;
+    margin-left:20px;
+    margin-top:15px;
+    font-size:7px;   
+}
+.tweleve{
+    width:89%;
+    height:30px;
+    background-color:white;
+    margin-left:20px;
+    margin-top:15px;
+    font-size:7px;   
+}
+.thirteen{
+    width:89%;
+    height:30px;
+    background-color:white;
+    margin-left:20px;
+    margin-top:15px;
+    font-size:7px;   
+}
+.fourteen{
+    width:45%;
+    height:450px;
+    background-color:blue;
+    margin-left:800px;
+    margin-top:-460px;
+    font-size:7px;   
+}
+.seventeen{
+    width:95%;
+    height:98px;
+    background-color:white;
+    margin-left:15px;
+    font-size:7px;
+    margin-top:25px;
+
+} 
+.sixteen{
+    width:90%;
+    height:20px;
+    background-color:green;
+    margin-left:25px;
+    font-size:7px;
+    margin-top:25px;
+
+} 
+.eightteen{
+    width:95%;
+    height:100px;
+    background-color:green;
+    margin-left:15px;
+    font-size:7px;
+
+} 
+.ninteen{
+    width:90%;
+    height:20px;
+    background-color:white;
+    margin-left:25px;
+    font-size:7px;
+
+} 
+.twenty{
+    width:90%;
+    height:20px;
+    background-color:white;
+    margin-left:25px;
+    font-size:7px;
+
+}
+.twentyone{
+    width:95%;
+    height:98px;
+    background-color:magenta;
+    margin-left:15px;
+    font-size:7px;
+
+} 
+.twentytwo{
+    width:90%;
+    height:20px;
+    background-color:white;
+    margin-left:25px;
+    font-size:7px;
+
+} 
+.twentythree{
+    width:90%;
+    height:20px;
+    background-color:white;
+    margin-left:25px;
+    font-size:7px;
+
+}
+
+.twentyfour{
+    width:98.8%;
+    height:158px;
+    background-color: red;
+    margin-left:20px;
+    margin-top:30px;
+    font-size:7px;
+
+}
+.twentyfive{
+    width:93%;
+    height:25px;
+    background-color:white;
+    margin-left:45px;
+    margin-top:30px;
+    font-size:7px;
+
+}
+.twentysix{
+    width:93%;
+    height:25px;
+    background-color:white;
+    margin-left:45px;
+    margin-top:30px;
+    font-size:7px;
+
+}
